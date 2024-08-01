@@ -2,7 +2,7 @@
 
 Importing the essential libraries 🔝
 """
-import curiosity 🧐
+import curiosity 🧐\n
 import critical thinking 💡
 import enthusiasm 😃
 import skillset as sk
