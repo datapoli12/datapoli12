@@ -24,7 +24,7 @@ me = ApollinaireMonteiro()
 me.display_profile()
 """
 tech_skills = {
-    "Programming Languages": ["Python", "R", "SQL"],
+    "Programming Languages": ["Python", "R", "SAS"],
     "Tools and Frameworks": ["Pandas", "NumPy", "Scikit-learn", "TensorFlow", "Keras"],
     "Databases": ["MySQL", "PostgreSQL"],
     "Visualization Tools": ["Matplotlib", "Seaborn", "Tableau"]
