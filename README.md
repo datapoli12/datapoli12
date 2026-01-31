@@ -27,19 +27,22 @@
 
 <br/>
 
+<!-- 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
+-->
 
 <!-- =========================
      PRÉSENTATION & COMPÉTENCES
 ========================= -->
+---
 
 ## Présentation
 
 Formé à la modélisation statistique, au machine learning et aux systèmes LLM, j'ai construit mes compétences autour de projets concrets : scoring crédit, segmentation clients, système RAG réglementaire. Aujourd'hui, je cherche à contribuer là où la data science, l'IA et la gestion des risques se croisent.
 
-### Compétences clés
+### <h3 align="center">Compétences clés</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/RISK%20MODELING-0ea5e9?style=for-the-badge&logoColor=white" />
@@ -49,10 +52,13 @@ Formé à la modélisation statistique, au machine learning et aux systèmes LLM
   <img src="https://img.shields.io/badge/MLOPS-22c55e?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
+<!--
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
+-->
 
+---
 <!-- =========================
      STACK TECHNIQUE
 ========================= -->
@@ -121,7 +127,7 @@ Formé à la modélisation statistique, au machine learning et aux systèmes LLM
      PROJETS PHARES
 ========================= -->
 
-## Projets Phares
+## 🏆Projets Phares
 
 ### Pipeline de Prédiction du Churn Client
 
