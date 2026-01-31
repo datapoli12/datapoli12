@@ -21,7 +21,7 @@
 <p align="center">
   <a href="https://github.com/Datapoli12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2d333b&borderRadius=20"/></a>
   <a href="http://linkedin.com/in/aemonteiro"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182&borderRadius=20"/></a>
-  <a href="mailto:ton-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=a33426&borderRadius=20"/></a>
+  <a href="mailto:apollinairemonteiro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=a33426&borderRadius=20"/></a>
   <a href="https://apollinairemonteiro.fr"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=d84315&borderRadius=20"/></a>
 </p>
 
@@ -195,7 +195,7 @@ Pour toute opportunité en data, analyse quantitative, ou risque de crédit
 <br/>
 
 <a href="http://linkedin.com/in/aemonteiro"><img src="https://img.shields.io/badge/Me_contacter_sur_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ton-email@example.com"><img src="https://img.shields.io/badge/M'envoyer_un_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:apollinairemonteiro@gmail.com"><img src="https://img.shields.io/badge/M'envoyer_un_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
