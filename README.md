@@ -169,11 +169,10 @@ Construire un système de décision crédit automatisé et transparent permettan
 **🛠️ Technologies :**
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/XGBoost-FF7A00?style=flat-square&logo=xgboost&logoColor=white" />
-<img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/SHAP-FF5733?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" />
 
 ---
