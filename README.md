@@ -157,32 +157,45 @@ Pipeline MLOps prêt pour la production pour la prédiction du churn client avec
 
 ---
 
-### Segmentation Clients par RFM et Clustering non Supervisé
+### Segmentation clients : RFM + clustering
 
-<a href="#"><img src="https://img.shields.io/badge/Voir_le_code-181717?logo=github&logoColor=white" /></a>
+<a href="https://github.com/datapoli12/Segmentation-Client-E-commerce"><img src="https://img.shields.io/badge/Voir_le_code-181717?logo=github&logoColor=white" /></a>
 
-Analyse client avancée combinant segmentation RFM et analyse d'association pour l'optimisation de stratégies marketing.
+Projet end-to-end de segmentation comportementale sur données transactionnelles e-commerce (UCI Online Retail), combinant analyse RFM et algorithmes de clustering pour identifier des segments actionnables.
+
+**🎯 Objectifs**
+
+Identifier automatiquement des segments clients homogènes à partir de 541k lignes de transactions pour personnaliser les stratégies marketing et maximiser la customer lifetime value.
 
 **Composantes analytiques :**
 
 **Segmentation RFM**
 
-- Analyse Récence, Fréquence, Montant pour le profilage client
-- Système de scoring multidimensionnel pour la classification des segments
-- Identification des patterns comportementaux tout au long du cycle de vie client
+- Calcul Recency (jours depuis dernier achat), Frequency (nombre de transactions), Monetary (montant total dépensé)
+- Preprocessing rigoureux : Winsorisation P95 + RobustScaler pour gestion outliers
+- Validation multi-critères : Silhouette ≥0.45, min cluster ≥5%, stabilité ARI >0.8
 
-**Market Basket Analysis**
+**Modélisation Clustering**
 
-- Découverte d'associations de produits via l'algorithme Apriori
-- Identification d'opportunités de cross-sell par règles d'association
-- Développement de stratégies d'upsell basées sur les patterns d'achat
+- Comparaison K-means, Hierarchical Clustering, DBSCAN
+- Détermination K optimal via Elbow Method + Silhouette Score
+- 4 segments finaux : Champions (9%), Réguliers (19%), Occasionnels (48%), À risque (24%)
 
-**Impact business :** Personnalisation marketing data-driven résultant en stratégies de campagne ciblées basées sur les comportements clients réels.
+**Impact business**
 
-**Technologies :**
+Segmentation data-driven permettant :
+- Personnalisation campagnes marketing par profil comportemental
+- Priorisation rétention clients VIP (top 9% = 60% CA)
+- Stratégies réactivation ciblées pour segment à risque (R>250j)
+
+**🛠️ Technologies :**
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
