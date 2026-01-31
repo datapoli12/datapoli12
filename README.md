@@ -128,32 +128,53 @@ Formé à la modélisation statistique, au machine learning et aux systèmes LLM
 ========================= -->
 
 ## 🏆Projets Phares
+### Modélisation du Risque de Crédit : Scoring et Prédiction du Défaut
 
-### Pipeline de Prédiction du Churn Client
+<a href="https://github.com/datapoli12/M1_credit_risk"><img src="https://img.shields.io/badge/Voir_le_code-181717?logo=github&logoColor=white" /></a>
 
-<a href="#"><img src="https://img.shields.io/badge/Voir_le_code-181717?logo=github&logoColor=white" /></a>
+Développement d'un modèle de scoring crédit pour l'estimation de la probabilité de défaut (PD) à 12 mois, combinant régression logistique de référence et méthodes de machine learning avancées (XGBoost/LightGBM/Random Forest) avec interprétabilité SHAP.
 
-Pipeline MLOps prêt pour la production pour la prédiction du churn client avec automatisation complète et monitoring.
+**🎯 Objectifs**
 
-**Implémentation technique :**
+Construire un système de décision crédit automatisé et transparent permettant d'évaluer le risque de défaut des emprunteurs avec une pipeline reproductible et validée selon les standards réglementaires.
 
-- Gestion de configuration avec Hydra pour des expériences reproductibles
-- Versioning et suivi des données avec DVC <img src="https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white" />
-- Suivi des expériences et registre de modèles avec MLflow <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-- Optimisation automatisée des hyperparamètres avec Optuna <img src="https://img.shields.io/badge/Optuna-4051B5?style=flat-square&logoColor=white" />
-- Déploiement d'API REST avec FastAPI <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-- Interface interactive construite avec Streamlit <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-- Déploiement conteneurisé avec Docker <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> Compose
-- Automatisation CI/CD via GitHub Actions <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+**Méthodologie :**
 
-**Impact business :** Permet des stratégies de rétention client proactives avec scoring du risque de churn en temps réel.
+**Preprocessing & Feature Engineering**
 
-**Technologies :**
+- Traitement des valeurs manquantes et encodage des variables catégorielles
+- Création de features métier (ratios d'endettement, historique de paiement)
+- Gestion du déséquilibre de classes (SMOTE/undersampling)
+
+**Modélisation Comparative**
+
+- Baseline : Régression logistique avec régularisation L1/L2
+- Modèles avancés : <img src="https://img.shields.io/badge/XGBoost-FF7A00?style=flat-square&logo=xgboost&logoColor=white" /> <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Random_Forest-228B22?style=flat-square&logoColor=white" /> avec optimisation bayésienne
+- Calibration des probabilités via Platt Scaling et isotonic regression
+
+**Validation & Interprétabilité**
+
+- Métriques : AUC-ROC, KS Statistic, Gini Index
+- Analyse de stabilité : Population Stability Index (PSI)
+- Explainabilité : <img src="https://img.shields.io/badge/SHAP-FF5733?style=flat-square&logoColor=white" /> values pour interprétation des décisions
+- Train/Test split avec cross-validation stratifiée
+
+**Impact business**
+
+- Automatisation du processus de décision crédit avec scoring temps réel
+- Réduction du taux de faux négatifs (pertes commerciales)
+- Conformité réglementaire (transparence et traçabilité des décisions)
+- Evaluation ROC/AUC/KS pour mesure de performance discriminante
+
+**🛠️ Technologies :**
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-FF7A00?style=flat-square&logo=xgboost&logoColor=white" />
+<img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/SHAP-FF5733?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" />
 
 ---
 
