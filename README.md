@@ -229,7 +229,7 @@ Segmentation data-driven permettant :
 
 ## 📧 Contact Direct
 
-Pour toute opportunité en data, analyse quantitative, ou risque de crédit
+Disponible pour des opportunités en data science, quant et risque de crédit.
 
 <br/>
 
