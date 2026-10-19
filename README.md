@@ -40,7 +40,7 @@
 
 ## Présentation
 
-Formé à la modélisation statistique, au machine learning et aux systèmes LLM, j'ai construit mes compétences autour de projets concrets : scoring crédit, segmentation clients, système RAG réglementaire. Aujourd'hui, je cherche à contribuer là où la data science, l'IA et la gestion des risques se croisent.
+La data science et la modélisation quantitative appliquée à la finance.
 
 ### <h3 align="center">Compétences clés</h3>
 
