@@ -32,31 +32,6 @@
 </p>
 -->
 
-
-
-<!-- =========================
-     CONTACT
-========================= -->
-
-<div align="center">
-
-## 📧 Contact Direct
-
-Disponible pour des opportunités en data science, quant et risque de crédit.
-
-<br/>
-
-<a href="http://linkedin.com/in/aemonteiro"><img src="https://img.shields.io/badge/Me_contacter_sur_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:apollinairemonteiro@gmail.com"><img src="https://img.shields.io/badge/M'envoyer_un_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=0:1a1a2e,100:16213e" />
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Datapoli12&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
