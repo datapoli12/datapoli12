@@ -20,9 +20,8 @@
 
 <p align="center">
   <a href="https://github.com/Datapoli12"><img src="https://img.shields.io/badge/GitHub-Datapoli12-343b43?style=flat&amp;logo=github&amp;logoColor=white&amp;labelColor=555555" alt="GitHub : Datapoli12"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/aemonteiro"><img src="https://img.shields.io/badge/LinkedIn-Apollinaire%20Monteiro-0077B5?style=flat&amp;labelColor=555555" alt="LinkedIn : Apollinaire Monteiro"></a>&nbsp;
-  <a href="mailto:apollinairemonteiro@gmail.com"><img src="https://img.shields.io/badge/Email-apollinairemonteiro%40gmail.com-e7e7e7?style=flat&amp;logo=gmail&amp;logoColor=EA4335&amp;labelColor=555555" alt="Email : apollinairemonteiro@gmail.com"></a>&nbsp;
-  <a href="https://apollinairemonteiro.fr"><img src="https://img.shields.io/badge/Portfolio-apollinairemonteiro.fr-376b82?style=flat&amp;labelColor=555555" alt="Portfolio : apollinairemonteiro.fr"></a>
+  <a href="https://www.linkedin.com/in/aemonteiro"><img src="https://img.shields.io/badge/LinkedIn-Apollinaire%20Eyitayo%20Monteiro-0077B5?style=flat&amp;labelColor=555555" alt="LinkedIn : Apollinaire Monteiro"></a>&nbsp;
+  <a href="mailto:apollinairemonteiro@gmail.com"><img src="https://img.shields.io/badge/Email-apollinairemonteiro%40gmail.com-e7e7e7?style=flat&amp;logo=gmail&amp;logoColor=EA4335&amp;labelColor=555555" alt="Email : apollinairemonteiro@gmail.com"></a>&nbsp
 </p>
 
 <br/>
