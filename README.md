@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=950&lines=MSc+Data+Science+%26+IA+%E2%80%A2+Paris+1+Panth%C3%A9on+Sorbonne;MLOps+%26+Validation;Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=950&lines=Data+Science+%26+Statistical+Modeling;Machine+Learning+%26+Predictive+Analytics;Model+Validation+%26+Backtesting;IFRS9+%26+Forward-Looking+Models;" alt="Typing SVG" />
 </p>
 
 <p align="center">
